@@ -1,4 +1,5 @@
 ### Hi! My name's Kelly and I'm a first year at UC Santa Cruz studying Computer Science. 
+I'm a research assistant at the UCSC SET Lab learning Three.js. 
 
 <!--
 **linkelly/linkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
