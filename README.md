@@ -1,5 +1,5 @@
 ### Hi! My name's Kelly and I'm a first year at UC Santa Cruz studying Computer Science. 
-- 🔭 I’m a research assistant at the UCSC SET Lab learning Three.js. 
+- 🔭 I’m currently learning Three.js for VR Development. 
 - 📫 Reach out via klin79@ucsc.edu 
 
 <!--
