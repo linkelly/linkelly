@@ -1,6 +1,6 @@
 ### Hi! My name's Kelly and I'm a first year at UC Santa Cruz studying Computer Science. 
 - 🔭 I’m currently learning Three.js for VR Development.
-- - 🌱 I'm interested in learning about the intersection between humans and technology, specifically learning how to utilize technology to interpret human emotions.
+- 🌱 I'm interested in learning about the intersection between humans and technology, specifically learning how to utilize technology to interpret human emotions.
 - 📫 Feel free to reach out via klin79@ucsc.edu 
 
 <!--
